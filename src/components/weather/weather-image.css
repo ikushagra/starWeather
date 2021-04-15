@@ -1,0 +1,13 @@
+.weather-image-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.weather-icon{
+color: white;
+ height: 60%;
+ width: 60%;
+}

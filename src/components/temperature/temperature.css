@@ -1,0 +1,26 @@
+.temperature-container{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+}
+.current-temp{
+    color: green;
+    font-size: 65px;
+}
+.min-max{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.min-temp{
+color: blue;
+margin: 5px;
+}
+.max-temp{
+    color: red;
+    margin: 5px;
+}
+
