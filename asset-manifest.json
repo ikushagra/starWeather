@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starWeather/static/css/main.1393e731.chunk.css",
+    "main.js": "/starWeather/static/js/main.03a70301.chunk.js",
+    "main.js.map": "/starWeather/static/js/main.03a70301.chunk.js.map",
+    "runtime-main.js": "/starWeather/static/js/runtime-main.1992d6c3.js",
+    "runtime-main.js.map": "/starWeather/static/js/runtime-main.1992d6c3.js.map",
+    "static/js/2.48e3b005.chunk.js": "/starWeather/static/js/2.48e3b005.chunk.js",
+    "static/js/2.48e3b005.chunk.js.map": "/starWeather/static/js/2.48e3b005.chunk.js.map",
+    "index.html": "/starWeather/index.html",
+    "static/css/main.1393e731.chunk.css.map": "/starWeather/static/css/main.1393e731.chunk.css.map",
+    "static/js/2.48e3b005.chunk.js.LICENSE.txt": "/starWeather/static/js/2.48e3b005.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1992d6c3.js",
+    "static/js/2.48e3b005.chunk.js",
+    "static/css/main.1393e731.chunk.css",
+    "static/js/main.03a70301.chunk.js"
+  ]
+}
