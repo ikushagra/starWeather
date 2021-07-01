@@ -31,7 +31,7 @@ export default class App extends Component{
         if(this.state.country !== prevState.country){
             this.handleSearch = (e) =>{
                 e.preventDefault()
-                    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${this.state.country}&units=metric&appid=bf44c1dafffa6ce5b4ea8c8674a34fe3`)
+                    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${this.state.country}&units=metric&appid=bf44c1dafffa6ce5b4ea8c8674a34fe3`)
                     .then(response => response.json())
                     .then(data => this.setState({weatherData: data})
                     );
